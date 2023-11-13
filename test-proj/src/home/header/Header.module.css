@@ -1,0 +1,8 @@
+img {
+  width: 200px;
+}
+
+.head {
+  grid-area: h;
+  background-color: antiquewhite;
+}

@@ -1,0 +1,16 @@
+.home {
+  display: grid;
+  grid-template-areas: 
+  "h h" 
+  "b m";
+  grid-template-rows: 120px 1fr;
+  grid-template-columns: 2fr 10fr;
+  gap: 10px;
+}
+
+.home-dialogs {
+  grid-area: m;
+  background-color: bisque;
+}
+
+
