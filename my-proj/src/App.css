@@ -8,7 +8,7 @@
   gap: 10px;
 }
 
-.home-dialogs {
+.home-content {
   grid-area: m;
   background-color: bisque;
 }
